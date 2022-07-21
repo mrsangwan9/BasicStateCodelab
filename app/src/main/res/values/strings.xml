@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicStateCodelab</string>
+    <string name="clear_water_count">Clear water count</string>
+</resources>
